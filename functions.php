@@ -2,7 +2,7 @@
 /**
  * Theme customizations
  *
- * @package   JoeDVenusLandingPageDemo
+ * @package   JoeDSolidLandingPageDemo
  * @author    Joe Domingo, Web Developer, UI/UX Engineer
  * @link      https://joedomingo.online
  * @copyright Copyright (c) 2019, Joe Domingo, Web Developer, UI/UX Engineer
